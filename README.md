@@ -4,6 +4,6 @@ This repository contains a website written in Markdown with [Zola] and Tabi what
 ## Running
 To run, you must have [Zola] installed. Then, you can simply execute `zola serve` in your terminal. After that, you should click the link that appears in your terminal.
 
-![Screenshot of the home page](./screenshot.png)
+![Preview of the home page](./preview.png)
 
 [Zola]: https://www.getzola.org/
