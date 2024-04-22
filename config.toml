@@ -7,7 +7,7 @@ title = "Diego Augusto"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 [markdown]
 # Whether to do syntax highlighting
@@ -30,13 +30,13 @@ url = "mailto:diegovsky.dev@gmail.com"
 icon = "email"
 
 [[extra.socials]]
-name = "telefone"
-url = "tel:+5537999988530"
+name = "zapezape"
+url = "https://wa.link/guyfkd"
 icon = "whatsapp"
 
 [[extra.menu]]
-name = "projetos"
-url = "projects"
+name = "Projetos"
+url = "projetos"
 trailing_slash=true
 
 # Put all your custom variables here
