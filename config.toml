@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://diegovsky.github.io/portfolio/"
+base_url = "https://diegovsky.me"
 theme = "tabi"
 title = "Diego Augusto"
 
