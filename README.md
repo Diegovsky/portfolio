@@ -1,7 +1,7 @@
 # My Portfolio
 This repository contains a website written in Markdown with [Zola] and Tabi what showcases my habilitites and stuff I have worked on.
 
-This project is built and hosted on https://diegovsky.github.io/portfolio/
+This project is built and hosted on https://diegovsky.me
 
 ![Preview of the home page](./preview.png)
 
