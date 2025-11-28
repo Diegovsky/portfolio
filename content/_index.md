@@ -1,13 +1,33 @@
 +++
-title = "Sobre mim"
-paginate_by = 5
+title = "About me"
+description = "gex"
 
 [extra.header]
-title = "Sou um desevolvedor versátil capaz de lidar com qualquer situação."
 img = "eu.jpg"
-img_alt = "Eu, lindão"
+img_alt = "Me, with finesse"
+title = "I'm a professional developer that excels in any situation."
+description = "From full-stack to microservices, I got you covered."
 +++
-Meu background envolve desenvolvimento embarcado, gerenciamento de servidores Linux, projeto e implementação de sistemas eficientes, desenvolvimento mobile, desenvolvimento de sistemas e desenvolvimento full-stack.
+Giant ass text about how I'm the best and sexy and cool and sexy and cool.
 
+## Programming languages {.bottom-divider .name-list}
+ - Python
+ - Javascript/Typescript
+ - C#
+ - Rust
+ - C/C++
+ - HTML
+ - Dart
 
+## Frameworks/Technologies {.bottom-divider .name-list}
+ - React
+ - Django
+ - Docker
+ - TailwindCSS
+ - HTMX
+ - Github Actions
+ - Flutter
 
+## Past Experience {.bottom-divider}
+ - At Ozio, I brought value by implementing a fullstack web application to help manage internal systems.
+ - At Ozio, I

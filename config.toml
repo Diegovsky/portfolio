@@ -1,13 +1,28 @@
 # The URL the site will be built for
-base_url = "https://diegovsky.me"
+base_url = "https://diegovsky.dev"
 theme = "tabi"
 title = "Diego Augusto"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
+minify_html = true
+
+default_language = "en"
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+[[taxonomies]]
+name = "tags"
+feed = true
+
+[languages.pt-BR]
+title = "Diego Augusto"
+generate_feeds = true
+
+[[languages.pt-BR.taxonomies]]
+name = "tags"
+feed = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -29,14 +44,9 @@ name = "email"
 url = "mailto:diegovsky.dev@gmail.com"
 icon = "email"
 
-[[extra.socials]]
-name = "zapezape"
-url = "https://wa.link/guyfkd"
-icon = "whatsapp"
-
 [[extra.menu]]
-name = "Projetos"
-url = "projetos"
+name = "Projects"
+url = "projects"
 trailing_slash=true
 
 # Put all your custom variables here
