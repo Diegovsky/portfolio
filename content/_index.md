@@ -29,5 +29,7 @@ Giant ass text about how I'm the best and sexy and cool and sexy and cool.
  - Flutter
 
 ## Past Experience {.bottom-divider}
- - At Ozio, I brought value by implementing a fullstack web application to help manage internal systems.
- - At Ozio, I
+I worked with
+  - Django
+  - Next.js (full-stack)
+  - React Router 7 (Formerly Remix.js)
