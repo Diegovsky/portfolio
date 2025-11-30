@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://diegovsky.dev/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://diegovsky.dev/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/pt-BR/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/pt-BR/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/pt-BR/projects/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/pt-BR/skills/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/pt-BR/tags/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/skills/</loc>
+    </url>
+    <url>
+        <loc>https://diegovsky.dev/tags/</loc>
+    </url>
+</urlset>
